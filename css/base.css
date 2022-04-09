@@ -1,0 +1,38 @@
+body{
+  background: linear-gradient(to bottom right, rgb(151, 198, 255), rgb(0, 0, 132))
+}
+
+body{
+  font-size: 25pt;
+  font-family: 'MS Sans Serif';
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  text-shadow: 5px 20px 10px rgb(54, 50, 98);
+  font-family: 'Courier New', Courier, monospace;  
+}
+
+h2{
+  color: rgb(255, 255, 255);
+}
+
+dt{
+  color: rgb(255, 255, 255);
+}
+
+dd{
+
+}
+
+li{
+  color: rgb(255, 255, 255);
+}
+p{
+  color: rgb(255, 255, 255);
+}
+
+.links{
+  font-size: 20pt;
+
+}
